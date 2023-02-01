@@ -8,5 +8,7 @@ typedef struct_node{
 
 int main(){
     ..
+    char krit;
+    int numm ;
     return 1;
 }
