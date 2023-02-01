@@ -8,7 +8,7 @@ typedef struct_node{
 
 int main(){
     ..
-    lololol
-    eiei
+    char krit;
+    int numm ;
     return 1;
 }
